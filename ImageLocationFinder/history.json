@@ -1,0 +1,16 @@
+[
+  {
+    "status": "ok",
+    "name": "IMG_20250815_223638.jpg",
+    "path": "C:/Users/admin/Downloads/IMG_20250815_223638.jpg",
+    "lat": 13.02935277777778,
+    "lon": 80.26931111111111,
+    "address": "Mandaveli Road, CMWSSB Division 124, Zone 9 Teynampet, Chennai, Tamil Nadu, 600001, India"
+  },
+  {
+    "status": "no_gps",
+    "name": "IMG-20250815-WA0017.jpeg.jpg",
+    "path": "C:/Users/admin/Downloads/IMG-20250815-WA0017.jpeg.jpg",
+    "reason": "No GPS data found because:\n1) The sender stripped location data before sending, OR\n2) The camera’s location setting was OFF when the photo was taken."
+  }
+]
